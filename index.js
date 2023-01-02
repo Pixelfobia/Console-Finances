@@ -133,7 +133,7 @@ let finances = [
 		return { maxMonth, minMonth };
 	});
 	
-	//Total sale of profit months: ', profitMonths);
+	// Total sale of profit months: ', profitMonths);
 	console.log('Average Change: ', profitAndLoss.toFixed(2));
 	console.log('Greatest Increase: ', maxMonth);
 	console.log('Greatest Decrease: ', minMonth);
