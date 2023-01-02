@@ -9,7 +9,7 @@ In this challenge, I have been using the concepts that I have been learning in t
 <br />
 <div align="center">
   <a href="https://pixelfobia.github.io/Console-Finances/">
-		<p>Visit the github repo -></p>
+		<p>Visit the Github Page -></p>
   </a>
 </div>
 
@@ -19,7 +19,7 @@ In this challenge, I have been using the concepts that I have been learning in t
 
 ## Screenshots
 
-![image](assets/images/Screenshoot.png)
+![image](/assets/assets/images/Screenshoot.png)
 
 ## Credits
 
