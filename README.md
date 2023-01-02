@@ -19,7 +19,7 @@ In this challenge, I have been using the concepts that I have been learning in t
 
 ## Screenshots
 
-![image](/assets/assets/images/Screenshoot.png)
+![image](images/Screenshoot.png)
 
 ## Credits
 
